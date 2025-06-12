@@ -20,7 +20,11 @@ export const AboutSection = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-              <a href="/curriculum_lucasSartori.pdf" download>
+              <a
+                href="/curriculum_lucasSartori.pdf"
+                download
+                className="cosmic-button"
+              >
                 Baixe o Meu Currículo
               </a>
             </div>
