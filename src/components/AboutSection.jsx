@@ -22,8 +22,9 @@ export const AboutSection = () => {
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
               <a
                 href="/curriculum_lucasSartori.pdf"
+                target="_blank"
+                rel="noopener noreferrer"
                 download
-                className="cosmic-button"
               >
                 Baixe o Meu Currículo
               </a>
