@@ -6,7 +6,7 @@ import { Routes, Route } from "react-router-dom";
 function App() {
   return (
     <>
-      <BrowserRouter>
+      <BrowserRouter basename="/Portfolio">
         <Routes>
           <Route index element={<Home />} />
 
