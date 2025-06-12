@@ -36,22 +36,12 @@ export const AboutSection = () => {
                   <Code className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="text-semibold text-lg">Web Development</h4>
+                  <h4 className="text-semibold text-lg">
+                    Web & Mobile Development
+                  </h4>
                   <p className="text-muted-foreground">
-                    Criação de sites responsivos
-                  </p>
-                </div>
-              </div>
-            </div>
-            <div className="gradient-border p-6 card-hover bg-card ">
-              <div className="flex items-start gap-4">
-                <div className="p-3 rounded-full bg-primary/10">
-                  <User className="h-6 w-6 text-primary" />
-                </div>
-                <div className="text-left">
-                  <h4 className="text-semibold text-lg">Web Development</h4>
-                  <p className="text-muted-foreground">
-                    Criação de sites responsivos
+                    Criação de sites responsivos e aplicativos para android e
+                    ios
                   </p>
                 </div>
               </div>
@@ -62,9 +52,11 @@ export const AboutSection = () => {
                   <Briefcase className="h-6 w-6 text-primary" />
                 </div>
                 <div className="text-left">
-                  <h4 className="text-semibold text-lg">Web Development</h4>
+                  <h4 className="text-semibold text-lg">
+                    Experiência Profissional
+                  </h4>
                   <p className="text-muted-foreground">
-                    Criação de sites responsivos
+                    Carreira profissional com mais de 2 anos de experiência
                   </p>
                 </div>
               </div>
