@@ -20,12 +20,7 @@ export const AboutSection = () => {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">
-              <a
-                href="/curriculum_lucasSartori.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                download
-              >
+              <a href="/curriculum_lucasSartori.pdf" download>
                 Baixe o Meu Currículo
               </a>
             </div>

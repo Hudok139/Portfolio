@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
-    "prepare-docs": "npm run build && rm -rf docs && cp -r dist docs",
+    "prepare-docs": "npm run build && cp -r dist docs",
     "lint": "eslint .",
     "preview": "vite preview"
   },
